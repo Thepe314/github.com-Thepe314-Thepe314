@@ -1,4 +1,3 @@
-# Hi, I'm Nischal Thapa 👋 Backend Developer & Cloud Enthusiast
 # 💫 About Me:
 # Hi, I'm Nischal Thapa 👋 Backend Developer & Cloud Enthusiast
 
